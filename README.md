@@ -17,6 +17,7 @@ An api for a ecommerce website that helps update inventory
 ## Installation
 
 For installation, please be sure to bring down the code, install sequelize, mysql2, express, and dotenv, from there please be sure to login to mysql, source the database with schema, seed the database with index.js under seeds.js,  and then server.js
+Video Tutorial for Program: [https://drive.google.com/file/d/1iSsnTsUPjQxp8ixdSJNrFWW8f1Y8T1FW/view]
 
 ## Contribution
 
